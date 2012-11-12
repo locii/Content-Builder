@@ -12,7 +12,7 @@
 // To add new items to your array just follow the syntax used in the example below.
 // 	When adding new colour schemes make sure you add a comma between the nested arrays otherwise you will get the white page of doom.
 //---------------------------------------
-
+  
 $articles = array( 
 	
 		array( 
